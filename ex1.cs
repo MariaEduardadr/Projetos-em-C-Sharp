@@ -10,7 +10,6 @@ namespace q3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("QUESTÃO 3");
 
             int idade, tempo;
             char tipo;
